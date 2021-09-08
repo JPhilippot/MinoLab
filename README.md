@@ -26,6 +26,7 @@ Each type of agent pursue their own goal :
 
 # Disclamer
 This program is just a prototype to show our comprehension of agent programming and our ability to apply our knowledge from scratch. As a consequence, it is very likely that you encounter some issues while running it. We do not plan to make it work flawlessly.
+
 Also, the variable names and most of the commentary is written in French, it is due to the fact that, again, it is a student project.
 
 If you find anything that might help you in this program, feel free to use it :)
